@@ -1,0 +1,28 @@
+h1 {
+  font-family: 'Aldrich';
+  color: #da1d85;
+  font-size: 6.5vh;
+  text-align: center;
+}
+#number {
+  font-size: 2.35vh;
+  font-family: 'Source Code Pro';
+}
+#test {
+  background-color: #ff84c7;
+  font-family: 'Aldrich';
+  font-size: 2.4vh;
+  cursor: pointer;
+  user-select: none;
+}
+#output {
+  font-family: 'Source Code Pro';
+  font-size: 2.5vh;
+  margin: 1.5vh auto 0 auto;
+  width: fit-content;
+  color: #da1d85;
+}
+#main {
+  margin: 3vh auto 0 auto;
+  width: fit-content;
+}
